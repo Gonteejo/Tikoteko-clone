@@ -1,5 +1,1 @@
-Projeto "TikTok Clone" Jornada Dev EBAC
-
-Links úteis:
-
-[* Projeto Online](https://jornada-clone-tiktok.web.app)
+Projeto "Tikoteko-clone" Jornada Dev EBAC
